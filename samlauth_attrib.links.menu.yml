@@ -1,0 +1,6 @@
+samlauth_attrib.grouper_settings_form:
+  title: 'SAML Groups Configuration'
+  description: 'Define SAML groups to roles mappings'
+  parent: user.admin_index
+  weight: 99
+  route_name: samlauth_attrib.grouper_settings_form

@@ -1,0 +1,9 @@
+name: SAMLAuth Attrib
+description: Group attributes from SAML metadata
+package: 'User authentication'
+configure: samlauth_attrib.grouper_settings_form
+dependencies:
+  - samlauth
+
+type: module
+core_version_requirement: ^11 || ^9 || ^10
