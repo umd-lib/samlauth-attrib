@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "drupal/samlauth": "^3",
+        "drupal/samlauth": "^3"
     },
     "minimum-stability": "beta"
 }
